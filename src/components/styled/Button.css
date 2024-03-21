@@ -1,0 +1,28 @@
+.full-button {
+    background-color: gray;
+    color: #fff;
+}
+
+.outline-button {
+    border: 1px solid red;
+    background: transparent;
+}
+
+.br-10 {
+    border-radius: 10px;
+}
+
+.btn-px-6 {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.btn-px-10
+ {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn-py-20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
